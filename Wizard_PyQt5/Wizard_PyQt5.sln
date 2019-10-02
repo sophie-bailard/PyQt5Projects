@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.352
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Wizard_PyQt5", "Wizard_PyQt5\Wizard_PyQt5.pyproj", "{2C5AFBA5-3EAE-4F81-93E2-108B87530A6C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2C5AFBA5-3EAE-4F81-93E2-108B87530A6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C5AFBA5-3EAE-4F81-93E2-108B87530A6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3B2C30BD-55F8-4F46-AC05-12EA44E6349D}
+	EndGlobalSection
+EndGlobal
