@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.352
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Database_Connection_PyQt5", "Database_Connection_PyQt5\Database_Connection_PyQt5.pyproj", "{E9033B63-4D94-4798-A1D7-0CB25C710399}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E9033B63-4D94-4798-A1D7-0CB25C710399}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9033B63-4D94-4798-A1D7-0CB25C710399}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {992DFB9A-019A-4794-9169-0E32386A6D26}
+	EndGlobalSection
+EndGlobal
